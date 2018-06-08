@@ -51,7 +51,7 @@
     * u4jdbc
         * jdbcUtils -> jdbc數據庫鏈接工具類
     * u4mail
-        * jdbcUtils -> mail郵箱工具類
+        * mailUtils -> mail郵箱工具類
         
 ### LICENSE
 commutils4j belongs to MIT license (http://opensource.org/licenses/MIT)
