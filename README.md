@@ -52,6 +52,11 @@
         * jdbcUtils -> jdbc數據庫鏈接工具類
     * u4mail
         * mailUtils -> mail郵箱工具類
+    * u4html
+        * htmlUtils -> html工具类
+    * u4Xml
+        * XMLUtil  -> xml工具类 
+  
         
 ### LICENSE
 commutils4j belongs to MIT license (http://opensource.org/licenses/MIT)
